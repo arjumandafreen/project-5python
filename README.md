@@ -50,9 +50,7 @@ streamlit run app.py
 Replace app.py with the filename of your main script if different.
 
 📂 Project Structure
-pgsql
-Copy
-Edit
+
 secure-encryption-app/
 │
 ├── app.py           # Main Streamlit app
@@ -63,7 +61,7 @@ secure-encryption-app/
 🔒 Security Note
 This application is a demonstration tool and should not be used for storing highly sensitive data in production environments. For real-world applications, consider:
 
-Using proper cryptographic libraries like Fernet from cryptography           https://project-5python-9twbh2xappvxcoavd5jrxn2.streamlit.app/
+Using proper cryptographic libraries like Fernet from cryptography           
 
 Implementing key management systems
 
